@@ -77,7 +77,7 @@ X |   |
 
 <p align="center">
   <!-- Skill Icons with text, vertically adjusted -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" style="position: relative; top: 5px;" alt="HTML5"/> Frontend Developer &emsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" style="position: relative; top: 15px;" alt="HTML5"/> Frontend Developer &emsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" style="position: relative; top: 5px;" alt="Figma"/> UI/UX Designer &emsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" style="position: relative; top: 5px;" alt="Python"/> Python Enthusiast
 </p>
