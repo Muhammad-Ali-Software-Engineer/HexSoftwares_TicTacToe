@@ -66,13 +66,13 @@ X |   |
 
 <div align="center">
   <p>
-    Hi, I'm <b>Muhammad Ali</b> 👋<br>
-    <b><p>
+   ### Hi, I'm <b>Muhammad Ali</b> 👋<br>
+    <p>
     <!-- Skill Icons with text, vertically adjusted -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" style="position: relative; top: 10px;" alt="HTML5"/> Frontend Developer &emsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" style="position: relative; top: 10px;" alt="Figma"/> UI/UX Designer &emsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" style="position: relative; top: 10px;" alt="Python"/> Python Enthusiast
-  </p></b>
+  </p>
     🎓 BS Software Engineering Student at University of Gujrat, Pakistan<br>
     Ex-Frontend Development & UI/UX Designing Intern @ CodeAlpha
   </p>
