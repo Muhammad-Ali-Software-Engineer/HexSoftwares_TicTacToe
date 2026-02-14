@@ -61,41 +61,37 @@ X |   |
 ```
 
 ---
+<h2 align="center">👨‍💻 About Me</h2>
 
-<h2 align="center"> 👨‍💻 About Me</h2>
+<div align="center">
+  <p>
+    Hi, I'm <b>Muhammad Ali</b> 👋<br>
+    <b><p>
+    <!-- Skill Icons with text, vertically adjusted -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" style="position: relative; top: 10px;" alt="HTML5"/> Frontend Developer &emsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" style="position: relative; top: 10px;" alt="Figma"/> UI/UX Designer &emsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" style="position: relative; top: 10px;" alt="Python"/> Python Enthusiast
+  </p></b><br>
+    🎓 BS Software Engineering Student at University of Gujrat, Pakistan<br>
+    Ex-Frontend Development & UI/UX Designing Intern @ CodeAlpha
+  </p>
 
-<p align="center">
-  Hi, I'm <b>Muhammad Ali</b> 👋<br>
-  <b>
-  
-  <!-- Skill Icons with text, vertically adjusted -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" style="position: relative; top: 10px;" alt="HTML5"/> Frontend Developer &emsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" style="position: relative; top: 10px;" alt="Figma"/> UI/UX Designer &emsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" style="position: relative; top: 10px;" alt="Python"/> Python Enthusiast
+  <p>
+    Passionate about Software Engineering, Python, and building projects to strengthen programming concepts.
+  </p>
+</div>
 
-  </b><br>
-  🎓 BS Software Engineering Student at University of Gujrat, Pakistan <br>
-    Ex- Frontend Development & UI/UX Designing Intern @ CodeAlpha
-</p>
-
-<p align="center">
-  Passionate about Software Engineering, Python, and building projects to strengthen programming concepts.
-</p>
-
-
-
-
-<p align="center">
-  <!-- Contact Icons with original colors (dark mode friendly) -->
+<div align="center">
+  <!-- Contact Icons with original colors, dark-mode friendly -->
   <a href="https://github.com/Muhammad-Ali-Software-Engineer" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="35" style="color:#181717;" alt="GitHub"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" alt="GitHub"/>
   </a> &emsp;
   <a href="https://linkedin.com/in/Muhammad-Ali-Software-Engineer" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn"/>
   </a> &emsp;
   <a href="mailto:MuhammadAliOfficial75@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="35" style="color:#D14836;" alt="Email"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="35" alt="Email"/>
   </a>
-</p>
+</div>
 
 
