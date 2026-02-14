@@ -38,7 +38,7 @@ This project demonstrates practical Python skills such as lists, loops, conditio
 1. Install Python (3.x recommended)  
 2. Clone or download this repository  
 ```bash
-git clone https://www.github.com/Muhammad-Ali-Software-Engineer/HexSoftwares_TicTacToe.git
+git clone https://github.com/Muhammad-Ali-Software-Engineer/HexSoftwares_TicTacToe.git
 ```
 3. Navigate to project folder:
 ```
