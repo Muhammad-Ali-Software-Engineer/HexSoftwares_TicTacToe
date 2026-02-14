@@ -65,7 +65,7 @@ X |   |
 <h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
-  <p style="font-size:24px">
+  <p style="font-size:24">
    Hi, I'm <b>Muhammad Ali</b> 👋<br>
     <p>
     <!-- Skill Icons with text, vertically adjusted -->
