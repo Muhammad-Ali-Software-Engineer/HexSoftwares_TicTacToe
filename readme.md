@@ -66,7 +66,14 @@ X |   |
 
 <p align="center">
   Hi, I'm <b>Muhammad Ali</b> 👋<br>
-  <b>Frontend Developer | UI/UX Designer | Python Enthusiast</b><br>
+  <b>
+    <p align="center">
+  <!-- Skill Icons with text, vertically adjusted -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" style="position: relative; top: 10px;" alt="HTML5"/> Frontend Developer &emsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" style="position: relative; top: 10px;" alt="Figma"/> UI/UX Designer &emsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" style="position: relative; top: 10px;" alt="Python"/> Python Enthusiast
+</p>
+  </b><br>
   🎓 BS Software Engineering Student at University of Gujrat, Pakistan <br>
     Ex- Frontend Development & UI/UX Designing Intern @ CodeAlpha
 </p>
@@ -75,12 +82,7 @@ X |   |
   Passionate about Software Engineering, Python, and building projects to strengthen programming concepts.
 </p>
 
-<p align="center">
-  <!-- Skill Icons with text, vertically adjusted -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" style="position: relative; top: 15px;" alt="HTML5"/> Frontend Developer &emsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" style="position: relative; top: 5px;" alt="Figma"/> UI/UX Designer &emsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" style="position: relative; top: 5px;" alt="Python"/> Python Enthusiast
-</p>
+
 
 
 <p align="center">
