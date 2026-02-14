@@ -83,14 +83,15 @@ X |   |
 </p>
 
 <p align="center">
-  <!-- Contact Icons (square logos) -->
+  <!-- Contact Icons with original colors -->
   <a href="https://github.com/Muhammad-Ali-Software-Engineer" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="35" alt="GitHub"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" alt="GitHub"/>
   </a> &emsp;
   <a href="https://linkedin.com/in/Muhammad-Ali-Software-Engineer" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="35" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn"/>
   </a> &emsp;
   <a href="mailto:MuhammadAliOfficial75@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="35" alt="Email"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="35" alt="Email"/>
   </a>
 </p>
+
