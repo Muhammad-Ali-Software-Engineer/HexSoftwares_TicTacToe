@@ -51,6 +51,7 @@ python main.py
 5. Enter numbers 1–9 to place your move
 6. After the game ends, choose whether to play again
 
+## Example Output:
 ```
 [Player vs Computer board]
 X | O | X
