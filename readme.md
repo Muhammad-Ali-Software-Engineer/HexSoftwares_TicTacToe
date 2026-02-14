@@ -65,8 +65,8 @@ X |   |
 <h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
-  <p>
-   ### Hi, I'm <b>Muhammad Ali</b> 👋<br>
+  <p style="font-size:20px">
+   Hi, I'm <b>Muhammad Ali</b> 👋<br>
     <p>
     <!-- Skill Icons with text, vertically adjusted -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" style="position: relative; top: 10px;" alt="HTML5"/> Frontend Developer &emsp;
