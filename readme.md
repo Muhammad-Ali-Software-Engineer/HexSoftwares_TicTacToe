@@ -76,11 +76,12 @@ X |   |
 </p>
 
 <p align="center">
-  <!-- Tech / Role Badges -->
-  <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge&logo=html5&logoColor=white" alt="Frontend Dev"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/UI_UX-Designer-pink?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Designer"/>  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Python-Enthusiast-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>  
+  <!-- Skill Icons with text -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML5"/> Frontend Developer &emsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" alt="Figma"/> UI/UX Designer &emsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python"/> Python Enthusiast
 </p>
+
 
 <p align="center">
   <!-- Contact Icons with original colors (dark mode friendly) -->
