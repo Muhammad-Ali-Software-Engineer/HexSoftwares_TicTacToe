@@ -67,7 +67,7 @@ X |   |
 <p align="center">
   Hi, I'm <b>Muhammad Ali</b> 👋<br>
   <b>Frontend Developer | UI/UX Designer | Python Enthusiast</b><br>
-  🎓 BS Software Engineering Student at University of Gujrat, Pakistan
+  🎓 BS Software Engineering Student at University of Gujrat, Pakistan <br>
     Ex- Frontend Development & UI/UX Designing Intern @ CodeAlpha
 </p>
 
@@ -77,9 +77,9 @@ X |   |
 
 <p align="center">
   <!-- Tech / Role Badges -->
-  <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge&logo=html5&logoColor=white" alt="Frontend Dev"/>
-  <img src="https://img.shields.io/badge/UI_UX-Designer-pink?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Designer"/>
-  <img src="https://img.shields.io/badge/Python-Enthusiast-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge&logo=html5&logoColor=white" alt="Frontend Dev"/>   
+  <img src="https://img.shields.io/badge/UI_UX-Designer-pink?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Designer"/>  
+  <img src="https://img.shields.io/badge/Python-Enthusiast-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>  
 </p>
 
 <p align="center">
