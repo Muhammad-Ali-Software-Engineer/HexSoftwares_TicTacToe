@@ -46,7 +46,7 @@ cd HexSoftwares_TicTacToe
 ```
 4. Run the game using the command:  
 ```bash
-python main.py
+python game.py
 ```
 5. Enter numbers 1–9 to place your move
 6. After the game ends, choose whether to play again
