@@ -92,4 +92,4 @@ while True:
         print("Thanks for playing.")
         break
 
-# Best regards! - Muhammad Ali | Department of Software Engineering 
+# Made with love! - Muhammad Ali | Department of Software Engineering 
